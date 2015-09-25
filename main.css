@@ -1,0 +1,48 @@
+.navbar{
+	background-color: black;
+	margin: 0 auto;
+}
+
+.project-name{
+	color:grey;
+
+/*	padding-left: 15vw;
+*/	
+
+}
+
+.email{
+	margin-left: 65vw;
+	border-radius: 3px;
+
+}
+
+.password{
+
+	border-radius: 3px;
+}
+/*
+.container{
+	background-color: #EEEEEE
+
+}*/
+
+.main-content{
+	
+	background-color: #EEEEEE
+}
+
+.header{
+	font-size: 80px;
+	margin-bottom: 60px;
+	margin-top: 55px;
+}
+.sammy{
+
+	margin-bottom: 20px;
+}
+
+.learn-more{
+	cursor:progress;
+	margin-top:40px;
+}
